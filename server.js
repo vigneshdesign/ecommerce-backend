@@ -17,7 +17,7 @@ mongoose
 
 // Example Route
 app.get("/", (req, res) => {
-  res.send("Love you ma...");
+  res.send("API is running...");
 });
 
 // Start Server
